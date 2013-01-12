@@ -1,0 +1,56 @@
+Estamos en 1984, vivimos en un mundo gobernado por un regimen totalitario y de socialismo extremo,
+todo es controlado por el Gran Herman y los miembros del Partido Interior, incluso controlan tu 
+manera de pensar, todo esto es regido por la doctrina denominada Ingsoc o Socialismo Ingles.
+Hay varios personajes en este libro, dependiendo del que escojas te guiaremos por su papel en la
+historia, siendo los posibles a escoger: Winston Smith numero 1, El Gran Hermano numero 2, O'Brien numero 3,
+Julia numero 4,Emmanuel Goldstein numero 5, por favor escoge el numero del personaje con el que deseas avanzar.
+
+Perfecto has escogido a Winston Smith
+Perfecto has escogido al Gran Hermano.
+Perfecto has escogido a O'Brien.
+Perfecto has escogido a Julia.
+Perfecto has esogido a Emmanuel Goldstein
+
+Gran Hermano
+Este es la figura del Partido, el maximo exponente gobernador en toda Oceania, sus habitante le profesan
+amor eterno, lamentablemente nunca se lo ha visto en persona, simplemente se sabe que te vigila de dia y de
+noche y controla hasta tu manera de pensar.
+Aparte de lo anterior no se sabe mucho de el, se duda incluso de su existencia, y por lo tanto hasta aqui 
+llega su participacion en la historia.
+
+O'Brien
+	Miembro del partido interior, Winston sospecha que el tambien odia al Gran Hermano y que forma parte de 
+	la oculta hermandad que algun dia se sublevara contra el regimen totalitario.
+	En algunas oportunidades Winston intento contactarse con el, para realizarles muchas preguntas, pero
+	siempre con el miedo de que sus supuestos sean equivocados y este lo mande a ejecutar por traidor y por
+	promover odio hacia el gran hermano dentro del partido Interior.
+	Si deseas que O Brian sea miembro de la hermandad y tambien odie al gran hermano escoge uno, si deseas
+	que este no coincida con los supuestos de Winston y lo mande a ejecutar presiona 2.
+	1
+	1. O Brian realiza todas las gestiones necesarias para insinuarle sutilmente a Winston que sus predicciones
+	son correctas, finalmente pueden reunirse aun cuando saben que peligran sus vidas. Este le contesta todas 
+	sus preguntas, le cuenta acerca de la Hermandad y programan una nueva cita donde le entregara el libro Guia
+	de la hermandad.
+	Escoge uno si quieres que esta reunion se realize sin problemas, dos si quieres que sean descubiertos y 
+	ejecutados por conspirar.
+		1.1 Pactan una nueva cita, donde lo hace jurar a Winston lealtad a la hermandad y que entregara su vida
+		a la misma si es necesario.
+		Si deseas que sigan con su proyecto de tirar abajo al gran hermano, presiona uno si deseas que O Brian
+		revele su verdadera identidad como miembro de la Policia del pensamiento y capture a Winston presiona 2.
+			1.1.1 Winston y O Brian se reunen con toda la hermandad, planfican un ataque al Partido con todo los
+			del Proletariado y terminan derribando al Gran Hermano.
+			1.1.2 O Brian ha sido un miembro de la Policia del pensamiento, lo esta vigilando y fingio concordar 
+			con las suposiciones de Winston, para poder acercarse a el y capturarlo.
+			Finalmente lo tortura hasta casi la muerte, le lava el cerebro y hace que Winston se comprometa a la 
+			causa y Ame al Gran hermano.
+		1.2 O Brian se da cuenta de lo que quiere decirle Winston, lo descubre, lo hace ejecutar y lo convierte en una
+		nopersona.
+			
+	2 Ambos son descubiertos, son encarcelados y ejecutados de la manera mas cruel de todas, se convierten en 
+	nopersonas y todos olvidan su existencia para siempre.
+
+
+		
+		
+Has llegado al final de la historia, de tu personaje en la novela. Para volver al principio y escoger a 
+otro personajes por favor presiona tres.
